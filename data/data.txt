@@ -1,0 +1,4 @@
+http://aatdownloads.getty.edu/default.aspx
+http://www.getty.edu/research/tools/vocabularies/aat/
+http://www.getty.edu/research/tools/vocabularies/lod/index.html
+http://vocab.getty.edu/queries#Descendants_of_a_Given_Parent
