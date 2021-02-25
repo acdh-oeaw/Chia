@@ -85,7 +85,7 @@
 85.jpg,[Appealing]
 86.jpg,[Appealing]
 87.jpg,[Appealing]
-88.jpg,"[Non-appealing,Appealing]"
+88.jpg,[Non-appealing]
 89.jpg,[Non-appealing]
 90.jpg,[Appealing]
 91.jpg,[Non-appealing]
@@ -243,7 +243,7 @@
 243.jpg,[Appealing]
 244.jpg,[Appealing]
 245.jpg,[Appealing]
-246.jpg,"[Non-appealing,Appealing]"
+246.jpg,[Non-appealing]
 247.jpg,[Non-appealing]
 248.jpg,[Non-appealing]
 249.jpg,[Non-appealing]
@@ -347,7 +347,7 @@
 347.jpg,[Non-appealing]
 348.jpg,[Appealing]
 349.jpg,[Non-appealing]
-350.jpg,"[Appealing,Non-appealing]"
+350.jpg,[Appealing]
 351.jpg,[Appealing]
 352.jpg,[Non-appealing]
 353.jpg,[Appealing]
@@ -411,7 +411,7 @@
 411.jpg,[Non-appealing]
 412.jpg,[Appealing]
 413.jpg,[Appealing]
-414.jpg,"[Non-appealing,Appealing]"
+414.jpg,[Non-appealing]
 415.jpg,[Non-appealing]
 416.jpg,[Non-appealing]
 417.jpg,[Appealing]
@@ -422,7 +422,7 @@
 422.jpg,[Non-appealing]
 423.jpg,[Non-appealing]
 424.jpg,[Non-appealing]
-425.jpg,"[Non-appealing,Appealing]"
+425.jpg,[Non-appealing]
 426.jpg,[Appealing]
 427.jpg,[Appealing]
 428.jpg,[Appealing]
@@ -434,7 +434,7 @@
 434.jpg,[Appealing]
 435.jpg,[Appealing]
 436.jpg,[Appealing]
-437.jpg,"[Appealing,Non-appealing]"
+437.jpg,[Appealing]
 438.jpg,[Appealing]
 439.jpg,[Non-appealing]
 440.jpg,[Non-appealing]
